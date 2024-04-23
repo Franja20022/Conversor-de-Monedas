@@ -2,4 +2,5 @@
 
 <h1 align="center"> Conversor de Monedas </h1>
 
+![Badge finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Franja20022/decodificador">
