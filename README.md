@@ -19,5 +19,5 @@ monedas del mundo
 ## Version
 Este conversor de moneda es la unica version
 autorizada y confiable para usar. Esta alojada 
-en (https://github.com/Franja20022/Conversor-de-Monedas/tree/main))
+en (https://github.com/Franja20022/Conversor-de-Monedas/tree/master))
 
